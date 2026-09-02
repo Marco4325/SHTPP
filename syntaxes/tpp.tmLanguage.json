@@ -50,7 +50,7 @@
 			"patterns": [
 				{
 					"name": "keyword.control.tpp",
-					"match": "\\b(se|então|fim|repita|até|retorna|leia|escreva)\\b"
+					"match": "\\b(se|senão|então|fim|repita|até|retorna|leia|escreva)\\b"
 				},
 				{
 					"name": "keyword.operator.tpp",
